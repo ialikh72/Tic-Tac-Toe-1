@@ -37,11 +37,13 @@ Form1.cs → Main game logic
 Form1.Designer.cs → UI components (buttons, menu, etc.)
 Buttons (button1 to button9) → Game grid
 ▶️ How to Run
+
 Open project in Visual Studio
 Build the solution
 Run the application (Press F5)
 Start playing!
 🎯 How to Play
+
 Player X clicks any empty box
 Player O plays next
 Continue until:
