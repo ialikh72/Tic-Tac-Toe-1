@@ -32,6 +32,7 @@ C#
 .NET Framework
 Windows Forms (WinForms)
 📂 Project Structure
+
 Form1.cs → Main game logic
 Form1.Designer.cs → UI components (buttons, menu, etc.)
 Buttons (button1 to button9) → Game grid
