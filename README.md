@@ -13,8 +13,10 @@ Win detection (horizontal, vertical, diagonal)
 Draw detection
 Reset/New Game option
 Exit option
+
 Simple and user-friendly interface
 🧠 Game Logic
+
 Player X always starts first
 Players take turns clicking buttons on the grid
 After each move:
