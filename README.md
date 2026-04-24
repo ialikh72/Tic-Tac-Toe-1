@@ -6,6 +6,7 @@ This is a simple Tic Tac Toe game built using C# Windows Forms.
 Two players can play the game by taking turns marking spaces in a 3×3 grid.
 
 🚀 Features
+
 Two-player mode (Player X and Player O)
 Automatic turn switching
 Win detection (horizontal, vertical, diagonal)
